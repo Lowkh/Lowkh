@@ -50,5 +50,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowkh&theme=dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lowkh&theme=dark">
+![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Lowkh&theme=dark)
+![Status](https://github-readme-stats.vercel.app/api?username=Lowkh&theme=dark)
