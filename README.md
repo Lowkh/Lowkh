@@ -5,3 +5,5 @@
 - 👯 Looking to collaborate on autonomous vehicles development using IoTs 
 - 💬 Teach and learn from my students young and old
 - 📫 Spends most of my time in Azeroth: Northrend or Hydaelyn
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
