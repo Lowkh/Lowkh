@@ -5,7 +5,7 @@
 - 🎓 MTech in Softare Engineering (NUS-ISS) / 📜 Electrical Electronic Engineering (NTU)
 
 ### Currently, my not-so-free freetime...
-- 🎮 Working on Level 80 Warrior Tank in World Of Warcraft Classics - Lich King
+- 🎮 Working on Level 90 Warrior Tank in Final Fantasy 14
 - 🔫 Learning how to reach 300 fps on foam dart blasters
 - 👯 Looking to collaborate on autonomous vehicles development using IoTs 
 - 💬 Sharing and learning from my students young and old, on and off the dojo
