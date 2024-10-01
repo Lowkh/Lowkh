@@ -10,8 +10,8 @@
 - 🔫 Learning how to reach 350 fps on foam dart blasters
 - 👯 Looking to collaborate on autonomous vehicles development using IoTs 
 - 💬 Sharing and learning from my students young and old, on and off the dojo
-- 📫 Spends most of my time in Azeroth: Northrend or Hydaelyn
-- 🥋 Taekwondo, Judo, Karate & Aikido
+- 📫 Spends most of my time in Azeroth: Northrend, Eorzea or Hydaelyn
+- 🥋 Taekwondo, Judo, Karate & Aikido, planning for Kendo?
 ---
 ### My Favourite Searches
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
