@@ -5,7 +5,7 @@
 - 🎓 MTech in Softare Engineering (NUS-ISS) / 📜 Electrical Electronic Engineering | Control Systems (NTU)
 
 ### Currently, my not-so-free freetime...
-- 🎮 Working on Level 100 Warrior/ Paladin Tank in Final Fantasy XIV Dawntrail
+- 🎮 Working on Level 100 Warrior/ Paladin Tank in Final Fantasy XIV Dawntrail.. Working on Level 90 Warrior in retail
 - 🎮 Plans to start Warhammer Space Marine 2 soon... Bulwark Class ^^V
 - 🔫 Learning how to reach 350 fps on foam dart blasters
 - 👯 Looking to collaborate on autonomous vehicles development using IoTs 
